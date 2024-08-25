@@ -13,8 +13,8 @@
 
 ## Programming
 - [x] [Homework1](Chapter01/README.md)
-- [x] [Homework2]()
-- [ ] [Homework3]()
+- [x] [Homework2](Chapter02/README.md)
+- [x] [Homework3](Chapter03/README.md)
 - [ ] [Homework4]()
 - [ ] [Homework5]()
 - [ ] [Homework6]()
