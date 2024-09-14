@@ -16,7 +16,8 @@
 - [x] [Homework2](Chapter02/README.md)
 - [x] [Homework3](Chapter03/README.md)
 - [x] [Homework4](Chapter04/README.md)
-- [ ] [Homework5]()
+- [x] [Homework5](Chapter05/README.md) 
+    - [ ] `TODO:` warp-shuffle 
 - [ ] [Homework6]()
 - [ ] [Homework7]()
 - [ ] [Homework8]()
